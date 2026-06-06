@@ -1,0 +1,6 @@
+{
+  "name": "Personal Meal Planner",
+  "description": "A smart personal meal planner that generates an interactive, structured cooking to-do list, shopping list, and budget breakdown based on your day's energy, schedule, and preferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
